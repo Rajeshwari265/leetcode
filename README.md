@@ -21,10 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Rajeshwari265/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rajeshwari265/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Rajeshwari265/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rajeshwari265/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajeshwari265/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Rajeshwari265/leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
